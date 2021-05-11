@@ -25,7 +25,7 @@ In this project i used this technologies:
       yarn install
 
     // 3 - Run the application in the development mode 
-      yarn dev
+      yarn start
 
 ```
 
